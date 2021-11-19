@@ -41,7 +41,7 @@ RUN wget -O /usr/bin/gdtot "https://tgstreamerbot.akuotoko.repl.co/1673806755639
 chmod +x /usr/bin/gdtot && \
 wget -O /usr/bin/gp "https://tgstreamerbot.akuotoko.repl.co/1660131579769332/gp" && \
 chmod +x /usr/bin/gp && \
-echo '{"url":"https://new.gdtot.org/","cookie":"_ga=GA1.2.574333099.1633274054; crypt=VHhJVUViejl5dlRac2g1U2RCTjZqWjgxOFBSZHRIRFJ5Z2xHd29uNHZYQT0%3D; _gid=GA1.2.2118692155.1633771663; PHPSESSID=3rqokaemcm6hlf0nle5ubfq7v8; _gat_gtag_UA_130203604_4=1; prefetchAd_3621940=true"}' > cookies.txt 
+echo '{"url":"https://new.gdtot.org/","cookie":"user=%7B%22sub%22%3A%22112322229191538794836%22%2C%22name%22%3A%22amit%20sharm%22%2C%22given_name%22%3A%22amit%22%2C%22family_name%22%3A%22sharm%22%2C%22picture%22%3A%22https%3A%5C%2F%5C%2Flh3.googleusercontent.com%5C%2Fa%5C%2FAATXAJw-hvC3THu7hFMwaVT-EF_qil5VZ_M74Z9gEfpx%3Ds96-c%22%2C%22email%22%3A%22amitsharma791996%40gmail.com%22%2C%22email_verified%22%3Atrue%2C%22locale%22%3A%22en-GB%22%2C%22id_user%22%3A%22112322229191538794836%22%7D g_token=ya29.a0ARrdaM9tyVDICfDChy67uTImKqWTQT-JZmqvMSbBIiHr3LDXi0V9ANkIb7G8LHV3EuLIGjdsxyME0wo-kvVCqowTHJ6O2EgniLrLn8z7RGfZwa34FIZKDHkQhGBi_YjSjMQRr7UAR-LCPmSlhbEIgLBrxDdA _ga=GA1.2.574333099.1633274054; crypt=VHhJVUViejl5dlRac2g1U2RCTjZqWjgxOFBSZHRIRFJ5Z2xHd29uNHZYQT0%3D; _gid=GA1.2.2118692155.1633771663; PHPSESSID=sqmvm3e3t30h0dcirklc9elpad; _gat_gtag_UA_130203604_4=1; prefetchAd_3621940=true"}' > cookies.txt 
 #use your own gdtot cookies don't fumk with my...
 
 COPY requirements.txt .
